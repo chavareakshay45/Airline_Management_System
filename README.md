@@ -1,10 +1,10 @@
 # Airline Management System
 
-## \ud83d\udccc Project Overview
+## Project Overview
 
 The **Airline Management System** is a web-based application designed to manage airline operations efficiently. It provides functionalities such as flight scheduling, booking management, passenger details, and airline staff handling. The system ensures seamless airline operations by integrating backend logic with a responsive frontend.
 
-## \u2728 Features
+##  Features
 
 - **User Authentication**: Secure login/logout for users, including passengers and administrators.
 - **Flight Management**: Create, update, and delete flight details.
@@ -14,7 +14,7 @@ The **Airline Management System** is a web-based application designed to manage 
 - **Staff Management**: Allocate crew members to flights.
 - **Reports & Analytics**: Generate reports for flights, passengers, and revenue.
 
-## \ud83d\udee0 Tech Stack
+## Tech Stack
 
 - **Frontend**: Angular
 - **Backend**: Spring Boot (Java)
@@ -24,7 +24,7 @@ The **Airline Management System** is a web-based application designed to manage 
 - **CI/CD**: Jenkins, GitHub Actions
 - **Version Control**: Git, GitHub
 
-## \ud83d\ude80 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ ng serve
 
 \ud83d\udccc Access the application at `http://localhost:4200`.
 
-## \ud83d\udef3 Deployment
+##  Deployment
 
 - Use **Docker** to containerize the application:
   ```bash
@@ -67,7 +67,7 @@ ng serve
 - Deploy to **AWS EC2** or **Kubernetes cluster** for scalability.
 - Set up **CI/CD with Jenkins or GitHub Actions** for automated deployments.
 
-## \ud83d\udcbc API Endpoints
+## API Endpoints
 
 | Method | Endpoint               | Description           |
 | ------ | ---------------------- | --------------------- |
@@ -77,14 +77,14 @@ ng serve
 | PUT    | `/api/flights/{id}`    | Update flight details |
 | DELETE | `/api/bookings/{id}`   | Cancel a booking      |
 
-## \ud83d\udd2e Future Enhancements
+## Future Enhancements
 
 - Implement microservices architecture
 - Add AI-based dynamic pricing
 - Enhance UI/UX with modern design principles
 - Improve security with OAuth 2.0 authentication
 
-## \ud83e\udd1d Contributing
+##  Contributing
 
 Contributions are welcome! Follow these steps:
 
@@ -94,7 +94,6 @@ Contributions are welcome! Follow these steps:
 4. **Push to the branch** (`git push origin feature-name`)
 5. **Open a Pull Request**
 
-## \ud83d\udc1f License
 
 This project is licensed under the **MIT License**.
 
