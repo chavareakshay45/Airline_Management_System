@@ -95,9 +95,8 @@ Contributions are welcome! Follow these steps:
 5. **Open a Pull Request**
 
 
-This project is licensed under the **MIT License**.
+
 
 ---
 
-Feel free to modify the details according to your exact implementation! \ud83d\ude80
 
